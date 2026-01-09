@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Aman Rawat, a passionate AI and ML enthusiast currently pursuing my 3rd year at IIT Dhanbad. I have a strong interest in developing intelligent systems, working with machine learning models, and exploring data science to solve real-world problems.<br>
+Hi there! I'm Aman Rawat, a passionate AI and ML enthusiast currently pursuing my final year at IIT Dhanbad. I have a strong interest in developing intelligent systems, working with machine learning models, and exploring data science to solve real-world problems.<br>
 
 
 ## 🌐 Socials:
